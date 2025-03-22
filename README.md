@@ -15,7 +15,6 @@ Run the `Main.ipynb` included into the `/notebooks` directory
 - `matplotlib (3.7.5)`
 - `numpy (1.24.4)`
 - `pandas (2.0.3)`
-- `requests (2.32.3)`
 - `seaborn (0.13.2)`
 
 ## Data sources
@@ -28,6 +27,6 @@ Presentation slides can be found [here](https://docs.google.com/presentation/d/1
 
 ## Authors
 - Jud Saavedra ([github](https://github.com/10197jsg))
-- Jorge ([github](https://github.com/JorgeMMLRodrigues))
-- Lu ([github](https://github.com/Lucielululu))
-- Iryna ([github](https://github.com/))
+- Jorge Rodrigues ([github](https://github.com/JorgeMMLRodrigues))
+- Lu Song ([github](https://github.com/Lucielululu))
+- Iryna Oleinikova ([github](https://github.com/https://github.com/IrynaOleinikova))
