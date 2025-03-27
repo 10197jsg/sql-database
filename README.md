@@ -26,7 +26,7 @@ Presentation slides can be found [here](https://docs.google.com/presentation/d/1
 
 
 ## Authors
-- Jud Saavedra ([github](https://github.com/10197jsg))
-- Jorge Rodrigues ([github](https://github.com/JorgeMMLRodrigues))
-- Lu Song ([github](https://github.com/Lucielululu))
 - Iryna Oleinikova ([github](https://github.com/https://github.com/IrynaOleinikova))
+- Jorge Rodrigues ([github](https://github.com/JorgeMMLRodrigues))
+- Jud Saavedra ([github](https://github.com/10197jsg))
+- Lu Song ([github](https://github.com/Lucielululu))
