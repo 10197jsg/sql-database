@@ -1,6 +1,6 @@
-# sql-database: Environmental Sustainability & Economic Growth
+# Environmental Sustainability & Economic Growth (ih-quest-03_sql-database)
 
-The level of energy consumption might be correlated with a country's economic growth and environmental sustainability, influencing happiness. The challenge is to understand the interplay between energy consumption, economic development, and happiness levels within various nations.
+The level of energy consumption might be correlated with a country's economic growth and environmental sustainability, influencing happiness. The challenge is to understand the interplay between energy consumption, economic development, and happiness levels within various nations. We used data wrangling techniques, SQL queries and subqueries to entangled the datasets and finally Tableau for storytelling and visualization. The results were inconclusive, but it seemed to be related to insufficient data.
 
 ## Installation
 No installation needed
